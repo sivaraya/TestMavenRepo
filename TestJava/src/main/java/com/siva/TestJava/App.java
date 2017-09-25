@@ -9,6 +9,6 @@ public class App
 	
     public static void main( String[] args )
     {
-        System.out.println( "Hello Wod!..Si.2l." );
+        System.out.println( "Hello Wod.Si.2l." );
     }
 }
