@@ -13,5 +13,12 @@ public class AppllicationTest {
 		
 		assertEquals(10, i);
 	}
+	
+	@Test
+	public void testReturnString(){
+		TestJava testJava= new TestJava();
+		String name= testJava.returnString("siva");
+		assertEquals("siva", name);
+	}
 
 }
