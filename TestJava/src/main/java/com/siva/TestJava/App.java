@@ -10,7 +10,7 @@ public class App
 	
     public static void main( String[] args )
     {
-        System.out.println( "dkfjdkdsdj" );
+        System.out.println( "dkfjdsdj" );
         JOptionPane.showMessageDialog(null, "Eggs are not supposed to be green.");
     }
 }
