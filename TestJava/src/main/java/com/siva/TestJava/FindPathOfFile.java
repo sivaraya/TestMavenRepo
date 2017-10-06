@@ -25,7 +25,7 @@ public class FindPathOfFile {
 			} else {
 				if (file.getName().equals("App.html")) {
 					try {
-						System.out.println(file.getAbsolutePath());
+						System.out.println("sivas"+file.getAbsolutePath());
 						String content = "";
 						 
 				        try
